@@ -1,1 +1,8 @@
 #Install huawei et302s ubuntu 16.04
+
+lsusb
+
+12d1::1d50
+
+usb_modeswitch -H -v 12d1 -p1d50
+
