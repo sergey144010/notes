@@ -1,2 +1,2 @@
-# notes
+# Other notes
 Other notes
