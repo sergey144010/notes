@@ -9,6 +9,11 @@
     3. [Содержимое в HTML](https://webref.ru/course/html-content).
     4. Далее пройти все курсы в таком порядке: Формы в HTML, Основы CSS, Текст в CSS, Блочная модель в CSS, Позиционирование в CSS, Продвинутый CSS, Основы Sass. Продвинутый CSS и Основы Sass можно прочитать для ознакомления.
     5. [HTML5 и CSS3 на примерах](https://webref.ru/layout/html5-css3)
+2. Дополнительная информация
+    1. Официальный сайт Web стандартов - [The World Wide Web Consortium (W3C) is an international community that develops open standards to ensure the long-term growth of the Web.](https://www.w3.org/)
+    2. Текущий [стандарт HTML5](https://www.w3.org/TR/html5/)
+    3. Кандидат в стандарты [HTML 5.1](https://www.w3.org/TR/html51/)
+    4. Старая, но действующая спецификация [HTML 4.01 Specification](https://www.w3.org/TR/REC-html40/)
     
 ## Javascript
 
