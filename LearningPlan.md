@@ -17,6 +17,7 @@
         2. [Как сверстать страницу](https://habrahabr.ru/post/211032/) Часть 2. С использованием Bootstrap3 (см. ниже).
     8. Технологии и фреймворки (Framework's)
         1. Framework [Bootstrap](http://getbootstrap.com)
+            1. [Сетки на русском](http://www.oneskyapp.com/ru/docs/bootstrap/css#grid)
         2. Вёрстка (резиновая, адаптивная)
         3. Техника Landing Page.
         4. Техника [Parallax Scrolling](https://habrahabr.ru/post/141687/) (Параллакс эффект)
@@ -41,3 +42,12 @@
 2. [Учебник](http://phpclub.ru/manrus/) с официального сайта, сложный уровень.
 3. [Официальная документация](http://php.net/manual/ru/) изучать по ней лучше всего, но с нуля сложно. [Документация](http://php.net/docs.php) на разных языках.
     
+## Инструменты для разработки
+1. Редакторы кода
+    1. Notepad++
+    2. PhpStorm
+    3. NeatBeans
+2. Менеджеры зависимостей
+    1. Composer
+    2. Bower
+    3. Npm
