@@ -18,7 +18,7 @@
     8. Технологии и фреймворки (Framework's)
         1. Framework [Bootstrap](http://getbootstrap.com)
             1. [Сетки на русском](http://www.oneskyapp.com/ru/docs/bootstrap/css#grid)
-        2. (Сравнение адаптивных CSS фреймфорков: Bootstrap, Foundation и Skeleton)(https://habrahabr.ru/post/156425/)
+        2. [Сравнение адаптивных CSS фреймфорков: Bootstrap, Foundation и Skeleton](https://habrahabr.ru/post/156425/)
         3. Вёрстка (резиновая, адаптивная)
         4. Техника Landing Page.
         5. Техника [Parallax Scrolling](https://habrahabr.ru/post/141687/) (Параллакс эффект)
