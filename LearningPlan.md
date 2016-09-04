@@ -18,9 +18,10 @@
     8. Технологии и фреймворки (Framework's)
         1. Framework [Bootstrap](http://getbootstrap.com)
             1. [Сетки на русском](http://www.oneskyapp.com/ru/docs/bootstrap/css#grid)
-        2. Вёрстка (резиновая, адаптивная)
-        3. Техника Landing Page.
-        4. Техника [Parallax Scrolling](https://habrahabr.ru/post/141687/) (Параллакс эффект)
+        2. (Сравнение адаптивных CSS фреймфорков: Bootstrap, Foundation и Skeleton)(https://habrahabr.ru/post/156425/)
+        3. Вёрстка (резиновая, адаптивная)
+        4. Техника Landing Page.
+        5. Техника [Parallax Scrolling](https://habrahabr.ru/post/141687/) (Параллакс эффект)
             1. jQuery Parallax Image Slider (После изучения JavaScript)
 2. Дополнительная информация о HTML
     1. Официальный сайт Web стандартов - [The World Wide Web Consortium (W3C) is an international community that develops open standards to ensure the long-term growth of the Web.](https://www.w3.org/)
