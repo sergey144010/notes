@@ -9,7 +9,19 @@
     3. [Содержимое в HTML](https://webref.ru/course/html-content).
     4. Далее пройти все курсы в таком порядке: Формы в HTML, Основы CSS, Текст в CSS, Блочная модель в CSS, Позиционирование в CSS, Продвинутый CSS, Основы Sass. Продвинутый CSS и Основы Sass можно прочитать для ознакомления.
     5. [HTML5 и CSS3 на примерах](https://webref.ru/layout/html5-css3)
-2. Дополнительная информация
+    6. Бесплатные курсы HTML,CSS. [HtmlAcademy](https://htmlacademy.ru/). Визуальный онлайн редактор кода.
+        1. [Официальная информация о HtmlAcademy](https://habrahabr.ru/company/htmlacademy/blog/198620/)
+        2. [Отзывы о HtmlAcademy](https://toster.ru/q/171315).  Сверстать шаблон по реальным требованиям, для проверки знаний.
+    7. Примеры вёрстки страницы
+        1. [Как сверстать страницу](https://habrahabr.ru/post/202408/). Часть 1.
+        2. [Как сверстать страницу](https://habrahabr.ru/post/211032/) Часть 2. С использованием Bootstrap3 (см. ниже).
+    8. Технологии и фреймворки (Framework's)
+        1. Framework [Bootstrap](http://getbootstrap.com)
+        2. Вёрстка (резиновая, адаптивная)
+        3. Техника Landing Page.
+        4. Техника [Parallax Scrolling](https://habrahabr.ru/post/141687/) (Параллакс эффект)
+            1. jQuery Parallax Image Slider (После изучения JavaScript)
+2. Дополнительная информация о HTML
     1. Официальный сайт Web стандартов - [The World Wide Web Consortium (W3C) is an international community that develops open standards to ensure the long-term growth of the Web.](https://www.w3.org/)
     2. Текущий [стандарт HTML5](https://www.w3.org/TR/html5/)
     3. Кандидат в стандарты [HTML 5.1](https://www.w3.org/TR/html51/)
