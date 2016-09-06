@@ -18,6 +18,8 @@
     8. Технологии и фреймворки (Framework's)
         1. Framework [Bootstrap](http://getbootstrap.com)
             1. [Сетки на русском](http://www.oneskyapp.com/ru/docs/bootstrap/css#grid)
+            2. [Простой макет страницы через float](https://jsfiddle.net/LrL2sgw8/3/)
+            3. Наброски сеток (https://jsfiddle.net/LrL2sgw8/x/), где х 1,2,3
         2. [Сравнение адаптивных CSS фреймфорков: Bootstrap, Foundation и Skeleton](https://habrahabr.ru/post/156425/)
         3. Вёрстка (резиновая, адаптивная)
         4. Техника Landing Page.
