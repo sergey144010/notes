@@ -54,3 +54,14 @@
     1. Composer
     2. Bower
     3. Npm
+    
+## SEO
+1. Yandex
+    1. Подбор слов - [https://wordstat.yandex.ru](https://wordstat.yandex.ru)
+2. Google
+3. Анализ контента [pr-cy.ru](pr-cy.ru)
+4. Проверка уникальности текста [text.ru](text.ru)
+5. Покупка/продажа
+    1. Текстов [miralinks.ru](miralinks.ru)
+    2. Ссылок [sape.ru](sape.ru)
+    3. Ссылки [Liex.ru](Liex.ru)
