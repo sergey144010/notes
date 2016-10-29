@@ -65,3 +65,4 @@
     1. Текстов [miralinks.ru](miralinks.ru)
     2. Ссылок [sape.ru](sape.ru)
     3. Ссылки [Liex.ru](Liex.ru)
+6. Учебник, поверхностный, мало конкретики [http://seom.info/seo-book/](http://seom.info/seo-book/)
