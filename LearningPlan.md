@@ -15,11 +15,13 @@
     7. Примеры вёрстки страницы
         1. [Как сверстать страницу](https://habrahabr.ru/post/202408/). Часть 1.
         2. [Как сверстать страницу](https://habrahabr.ru/post/211032/) Часть 2. С использованием Bootstrap3 (см. ниже).
-    8. Технологии и фреймворки (Framework's)
+    8. Макеты страницы
+        1. Простой [двух-колоночный макет](https://jsfiddle.net/rnz1zuy5/) на Html5.
+        2. [Простой макет страницы через float](https://jsfiddle.net/LrL2sgw8/3/)
+        3. Наброски сеток (https://jsfiddle.net/LrL2sgw8/x/), где х 1,2,3
+    9. Технологии и фреймворки (Framework's)
         1. Framework [Bootstrap](http://getbootstrap.com)
             1. [Сетки на русском](http://www.oneskyapp.com/ru/docs/bootstrap/css#grid)
-            2. [Простой макет страницы через float](https://jsfiddle.net/LrL2sgw8/3/)
-            3. Наброски сеток (https://jsfiddle.net/LrL2sgw8/x/), где х 1,2,3
         2. [Сравнение адаптивных CSS фреймфорков: Bootstrap, Foundation и Skeleton](https://habrahabr.ru/post/156425/)
         3. Вёрстка (резиновая, адаптивная)
         4. Техника Landing Page.
